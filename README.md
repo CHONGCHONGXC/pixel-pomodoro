@@ -10,9 +10,9 @@
 
 适用于 Apple 芯片（M 系列）Mac · 当前为内测版本
 
-<a href="https://github.com/CHONGCHONGXC/pixel-pomodoro/releases/download/v2.1.2/pixel-pomodoro-demo.mp4"><img src="media/promo-cover.png" alt="我的 Mac 刘海住进了一只猫：像素番茄钟宣传片封面" width="420"></a>
+<img src="media/promo-cover.png" alt="我的 Mac 刘海住进了一只猫：像素番茄钟宣传片封面" width="420">
 
-**[▶ 看 56 秒宣传片](https://github.com/CHONGCHONGXC/pixel-pomodoro/releases/download/v2.1.2/pixel-pomodoro-demo.mp4)**
+<!-- 宣传片：上传 GitHub 视频附件后，在下方居中区块之外插入独立一行的附件链接。 -->
 
 </div>
 
