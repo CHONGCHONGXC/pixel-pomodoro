@@ -6,7 +6,7 @@
 
 番茄计时 · 桌宠陪伴 · 免费领养 · 照片定制
 
-**[下载 Mac 安装包](https://github.com/CHONGCHONGXC/pixel-pomodoro/releases)** · **[安装说明](docs/INSTALL.md)** · **[问题反馈](https://github.com/CHONGCHONGXC/pixel-pomodoro/issues)**
+**[下载 Mac 安装包（M 芯片 · 156 MB）](https://github.com/CHONGCHONGXC/pixel-pomodoro/releases/download/v2.1.2/pixel-pomodoro-2.1.2-mac-arm64.dmg)** · **[安装说明](docs/INSTALL.md)** · **[问题反馈](https://github.com/CHONGCHONGXC/pixel-pomodoro/issues)**
 
 适用于 Apple 芯片（M 系列）Mac · 当前为内测版本
 
