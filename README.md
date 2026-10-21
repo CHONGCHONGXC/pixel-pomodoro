@@ -6,7 +6,7 @@
 
 番茄计时 · 桌宠陪伴 · 免费领养 · 照片定制
 
-**[下载 Mac 安装包（M 芯片 · 156 MB）](https://github.com/CHONGCHONGXC/pixel-pomodoro/releases/download/v2.1.2/pixel-pomodoro-2.1.2-mac-arm64.dmg)** · **[安装说明](docs/INSTALL.md)** · **[问题反馈](https://github.com/CHONGCHONGXC/pixel-pomodoro/issues)**
+**[下载 Mac 安装包（v2.1.5 · M 芯片）](https://github.com/CHONGCHONGXC/pixel-pomodoro/releases/download/v2.1.5/pixel-pomodoro-2.1.5-mac-arm64.dmg)** · **[安装说明](docs/INSTALL.md)** · **[问题反馈](https://github.com/CHONGCHONGXC/pixel-pomodoro/issues)**
 
 适用于 Apple 芯片（M 系列）Mac · 当前为内测版本
 
@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/88cf30d6-74c7-41cb-ae3f-24e1cc73db96
 基础计时和已有宠物陪伴可在本机运行。照片生成、专业版激活与授权复查需要联网；专业版不支持永久离线使用。内测阶段，部分网络环境可能无法连接在线服务。
 
 **怎么更新？**  
-到 Releases 下载新版安装包，退出应用后替换安装。当前以下载页发布的版本为准。
+可以在应用帮助页检查更新，下载完成后选择「重启并更新」。也可以到 Releases 下载新版安装包，退出应用后替换安装；若在线更新连接失败，请使用安装包。
 
 **照片会发到哪里？**  
 照片定制使用在线生成服务，提交的照片会发送到相应服务进行处理。请使用你有权使用的照片，避免提交敏感内容。
